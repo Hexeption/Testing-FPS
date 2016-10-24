@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uNet FPS.CSharp.Plugins", "uNet FPS.CSharp.Plugins.csproj", "{F5A4FCFE-0197-EC48-4C32-BF585206123A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uNet FPS.CSharp", "uNet FPS.CSharp.csproj", "{16AAA101-AD9D-9CA5-D446-DC98D68FF138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uNet FPS.CSharp.Editor", "uNet FPS.CSharp.Editor.csproj", "{B6D923FF-7FF9-DD35-5528-BEA18869B4CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A4FCFE-0197-EC48-4C32-BF585206123A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A4FCFE-0197-EC48-4C32-BF585206123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A4FCFE-0197-EC48-4C32-BF585206123A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A4FCFE-0197-EC48-4C32-BF585206123A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AAA101-AD9D-9CA5-D446-DC98D68FF138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AAA101-AD9D-9CA5-D446-DC98D68FF138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AAA101-AD9D-9CA5-D446-DC98D68FF138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AAA101-AD9D-9CA5-D446-DC98D68FF138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D923FF-7FF9-DD35-5528-BEA18869B4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D923FF-7FF9-DD35-5528-BEA18869B4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D923FF-7FF9-DD35-5528-BEA18869B4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D923FF-7FF9-DD35-5528-BEA18869B4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
